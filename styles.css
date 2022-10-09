@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html{
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    height: 100%;
+}
+.navigation{
+    display: flex;
+}
+.navigation-up{
+    display: flex;
+}
+.navigation-up-links{
+    display: flex;
+    margin-right: auto;
+}
+ul{
+list-style: none;
+}
+li{
+    text-decoration: none;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
